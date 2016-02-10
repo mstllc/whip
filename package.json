@@ -3,9 +3,6 @@
   "description": "Quickly duplicate project templates",
   "version": "0.0.0",
   "private": true,
-  "whip": {
-    "templatesDir": "/path/to/templates/dir"
-  },
   "main": "./index.js",
   "bin": {
     "whip": "./index.js"
